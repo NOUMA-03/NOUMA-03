@@ -2,7 +2,7 @@
 
 ### AI Engineer · Generative AI · Backend & Data · Rabat, Morocco
 
-I’m completing a Master’s in Digital Sciences and Artificial Intelligence at Mohammed V University, and I have hands-on experience in AI R&D and product engineering. I build practical AI systems across the full path: data, models, retrieval, APIs, and product integration.
+I hold a Master’s degree in Digital Sciences and Artificial Intelligence from Mohammed V University, and I have hands-on experience in AI R&D and product engineering. I build practical AI systems across the full path: data, models, retrieval, APIs, and product integration.
 
 > I’m especially interested in the details that make AI useful in an application: retrieval quality, reliable tool use, and a backend that brings it all together.
 
