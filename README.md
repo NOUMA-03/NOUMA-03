@@ -1,16 +1,25 @@
-## Hi there 👋
+# Houssam Eddine Nouma
 
-<!--
-**NOUMA-03/NOUMA-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer · Generative AI · Backend & Data · Rabat, Morocco
 
-Here are some ideas to get you started:
+I’m completing a Master’s in Digital Sciences and Artificial Intelligence at Mohammed V University, and I have hands-on experience in AI R&D and product engineering. I build practical AI systems across the full path: data, models, retrieval, APIs, and product integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> I’m especially interested in the details that make AI useful in an application: retrieval quality, reliable tool use, and a backend that brings it all together.
+
+## What I work on
+
+- **LLM systems:** RAG, embeddings, vector search, reranking, and tool-using AI agents
+- **Machine learning & data:** Python, pandas, scikit-learn, model evaluation, and analytics
+- **Backend & product:** FastAPI, Qdrant, MongoDB, NestJS, TypeScript, React, REST APIs, and Docker
+
+## How I like to build
+
+I enjoy connecting experiments to working software: understanding the data, evaluating model behavior, shaping a clear API, and integrating the result into a product. My background spans AI R&D, backend development, and full-stack delivery.
+
+## What’s next
+
+I’m exploring junior and entry-level opportunities, as well as internships, in AI engineering, machine learning, data science, or backend development. I’m prioritizing Morocco, especially Rabat and Casablanca, and I’m also open to France and Europe.
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/houssam-eddine-nouma-aa8b32267/) · [ORCID](https://orcid.org/0009-0009-1457-421X)
